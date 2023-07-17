@@ -28,11 +28,11 @@ To run this project locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/julia-portfolio.git
+sudo git clone https://github.com/Shreeyash01/Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/julia-portfolio.git
+git clone https://github.com/Shreeyash01/Portfolio.git
 ```
